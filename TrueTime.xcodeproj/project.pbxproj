@@ -672,7 +672,7 @@
 					};
 					288A04D61D31A74D0032B6FE = {
 						CreatedOnToolsVersion = 7.3.1;
-						DevelopmentTeam = 59VC75K95Z;
+						DevelopmentTeam = 7LH77QJHLF;
 						LastSwiftMigration = 0810;
 					};
 				};
@@ -682,6 +682,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -1326,7 +1327,7 @@
 			baseConfigurationReference = 282BD1E91D5CE2E0000D78A7 /* iOS-Application.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 59VC75K95Z;
+				DEVELOPMENT_TEAM = 7LH77QJHLF;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/iOS",
@@ -1345,7 +1346,7 @@
 			baseConfigurationReference = 282BD1E91D5CE2E0000D78A7 /* iOS-Application.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 59VC75K95Z;
+				DEVELOPMENT_TEAM = 7LH77QJHLF;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/iOS",
