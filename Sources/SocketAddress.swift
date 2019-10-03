@@ -62,6 +62,8 @@ extension SocketAddress: Hashable {
     var hashValue: Int {
         return host.hashValue
     }
+    
+    func hash(into hasher: inout Hasher) {}
 }
 
 func == (lhs: SocketAddress, rhs: SocketAddress) -> Bool {
